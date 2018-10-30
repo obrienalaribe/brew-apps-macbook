@@ -1,0 +1,16 @@
+git
+python
+wget
+ssh-copy-id
+terminal-notifier
+awscli
+azure-cli
+node
+go
+yarn
+openssl
+docker
+docker-compose
+terraform
+packer
+gradle
