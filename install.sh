@@ -5,7 +5,9 @@ set -e
 if test ! $(which brew); then
     echo "Installing homebrew..."
     ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    eval "$(/opt/homebrew/bin/brew shellenv)"
 fi
+
 
 brew_packages=$(cat ./brew-packages.txt)
 cask_packages=$(cat ./cask-packages.txt)
