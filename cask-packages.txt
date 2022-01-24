@@ -5,14 +5,15 @@ virtualbox
 iterm2
 intellij-idea
 visual-studio-code
-# cleanmymac
 java
 zoomus
 slack
 pycharm-ce
 hyper
 spectacle
-# google-cloud-sdk
+google-cloud-sdk
 docker
 firefox
 google-chrome 
+ngrok
+openvpn-connect
