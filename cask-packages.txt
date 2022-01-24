@@ -17,3 +17,9 @@ firefox
 google-chrome 
 ngrok
 openvpn-connect
+brave-browser
+lens
+todoist
+devutils
+postman
+telegram
