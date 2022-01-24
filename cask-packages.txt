@@ -1,12 +1,18 @@
-skype-for-business
 spotify
-atom
 whatsapp
 postman
 virtualbox
 iterm2
 intellij-idea
 visual-studio-code
-dbvisualizer
-cleanmymac
+# cleanmymac
 java
+zoomus
+slack
+pycharm-ce
+hyper
+spectacle
+# google-cloud-sdk
+docker
+firefox
+google-chrome 
