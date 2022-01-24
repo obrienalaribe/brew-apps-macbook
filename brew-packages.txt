@@ -2,15 +2,13 @@ git
 python@3.9
 wget
 ssh-copy-id
-terminal-notifier
-awscli
-azure-cli
+#terminal-notifier
+#awscli
+#azure-cli
 node
 go
 yarn
 openssl
-docker
-docker-compose
 terraform
 packer
 gradle
@@ -19,7 +17,6 @@ kustomize
 jq
 minikube
 yarn
-node
 telnet
 tfswitch
 tree
