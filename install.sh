@@ -28,4 +28,16 @@ do
   fi
 done
 
-# launchctl load -w /Library/LaunchDaemons/setenv.TNS_ADMIN.plist
+# For M1 macbooks
+softwareupdate --install-rosetta
+
+
+# Configure Rust & Cargo 
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+source ~/.cargo/env
+
+rustup default stable
+rustup update
+rustup update nightly
+rustup target add wasm32-unknown-unknown --toolchain nightly
+rustup show
