@@ -24,7 +24,7 @@ for package in $cask_packages
 do
   if [ ! -d /usr/local/Caskroom/$package ]; then
     echo "$package is not installed"
-    brew cask install $package
+    brew install --cask $package
   fi
 done
 
