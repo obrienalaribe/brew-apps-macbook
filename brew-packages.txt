@@ -20,3 +20,8 @@ tree
 helm
 truffle
 ganache
+watch
+netcat
+fzf
+speedtest-cli
+cointop
