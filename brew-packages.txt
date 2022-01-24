@@ -2,9 +2,6 @@ git
 python@3.9
 wget
 ssh-copy-id
-#terminal-notifier
-#awscli
-#azure-cli
 node
 go
 yarn
@@ -20,3 +17,4 @@ yarn
 telnet
 tfswitch
 tree
+helm
