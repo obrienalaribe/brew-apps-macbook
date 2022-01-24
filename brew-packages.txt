@@ -18,3 +18,5 @@ telnet
 tfswitch
 tree
 helm
+truffle
+ganache
