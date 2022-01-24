@@ -16,7 +16,7 @@ for package in $brew_packages
 do
   if [ ! -d /usr/local/Cellar/$package ]; then
     echo "$package is not installed, installing ..."
-    brew install $package
+    brew install $package || true
   fi
 done
 
@@ -26,7 +26,7 @@ for package in $cask_packages
 do
   if [ ! -d /usr/local/Caskroom/$package ]; then
     echo "$package is not installed"
-    brew install --cask $package
+    brew install --cask $package || true
   fi
 done
 
