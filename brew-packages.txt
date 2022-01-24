@@ -1,5 +1,5 @@
 git
-python
+python@3.9
 wget
 ssh-copy-id
 terminal-notifier
@@ -14,3 +14,12 @@ docker-compose
 terraform
 packer
 gradle
+argocd
+kustomize
+jq
+minikube
+yarn
+node
+telnet
+tfswitch
+tree
