@@ -9,7 +9,6 @@ openssl
 terraform
 packer
 gradle
-argocd
 kustomize
 jq
 minikube
