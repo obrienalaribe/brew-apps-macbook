@@ -3,13 +3,12 @@ whatsapp
 postman
 virtualbox
 iterm2
-intellij-idea
+intellij-idea-ce
 visual-studio-code
 java
 zoomus
 slack
 pycharm-ce
-hyper
 spectacle
 google-cloud-sdk
 docker
@@ -18,8 +17,6 @@ google-chrome
 ngrok
 openvpn-connect
 brave-browser
-lens
 todoist
-devutils
 postman
 telegram
