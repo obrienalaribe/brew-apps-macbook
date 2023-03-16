@@ -15,7 +15,6 @@ docker
 firefox
 google-chrome 
 ngrok
-openvpn-connect
 brave-browser
 todoist
 postman
