@@ -19,3 +19,4 @@ brave-browser
 todoist
 postman
 telegram
+cleanmymac
